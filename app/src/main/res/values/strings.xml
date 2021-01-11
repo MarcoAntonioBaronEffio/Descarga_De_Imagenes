@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Descarga De Imagenes</string>
+
+    <string name="urlEt">Escriba url</string>
+
+    <string name="descargarBtn">DESCARGAR</string>
+    <string name="LimpiarBtn">LIMPIAR</string>
+
+</resources>
